@@ -8,6 +8,6 @@ def title
   @title
 end
 
-attr_accessor :author, :genre
+attr_accessor :author, :genre, :page_count
 
 end
